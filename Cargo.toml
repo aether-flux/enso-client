@@ -11,6 +11,7 @@ keywords = ["db", "database", "sdk", "sql", "dbms"]
 homepage = "https://github.com/aether-flux/enso-client"
 documentation = "https://github.com/aether-flux/enso-client#readme"
 exclude = ["tests/*", "output/*", "docs/*", "target/*", ".github", ".gitignore"]
+categories = ["database"]
 
 [dependencies]
 serde_json = "1.0.149"
