@@ -2,5 +2,5 @@ mod client;
 mod error;
 mod protocol;
 
-use client::Enso;
-use error::EnsoError;
+pub use client::Enso;
+pub use error::EnsoError;
